@@ -1,4 +1,4 @@
-package com.paragon.printer_utility.util
+package com.paragon.bluetooth_printer_utility.util
 
 sealed class PrintResult {
     data object Success : PrintResult()

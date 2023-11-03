@@ -1,11 +1,11 @@
-package com.paragon.printer_utility
+package com.paragon.bluetooth_printer_utility
 
 import android.annotation.*
 import android.bluetooth.*
 import android.bluetooth.BluetoothDevice
 import android.content.*
 import android.content.Intent.*
-import com.paragon.printer_utility.data.*
+import com.paragon.bluetooth_printer_utility.data.*
 
 @SuppressLint("MissingPermission")
 class BluetoothController(context: Context) {

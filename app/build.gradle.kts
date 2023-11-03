@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.paragon.testbtprinter"
+    namespace = "com.paragon.printer_utility"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.paragon.testbtprinter"
+        applicationId = "com.paragon.printer_utility"
         minSdk = 27
         versionCode = 1
         versionName = "1.0"

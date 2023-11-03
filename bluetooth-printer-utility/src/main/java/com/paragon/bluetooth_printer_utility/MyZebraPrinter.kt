@@ -1,4 +1,4 @@
-package com.paragon.printer_utility
+package com.paragon.bluetooth_printer_utility
 
 import android.util.*
 import com.zebra.sdk.comm.*

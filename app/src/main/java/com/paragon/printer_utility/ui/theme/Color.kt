@@ -1,4 +1,4 @@
-package com.paragon.testbtprinter.ui.theme
+package com.paragon.printer_utility.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

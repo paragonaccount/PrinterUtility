@@ -1,7 +1,7 @@
-package com.paragon.printer_utility.label
+package com.paragon.bluetooth_printer_utility.label
 
 import android.os.*
-import com.paragon.printer_utility.util.*
+import com.paragon.bluetooth_printer_utility.util.*
 import kotlinx.parcelize.*
 
 @Parcelize

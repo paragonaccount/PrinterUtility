@@ -1,4 +1,4 @@
-package com.paragon.testbtprinter
+package com.paragon.printer_utility
 
 import org.junit.Test
 

@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.paragon.btprinter"
+    namespace = "com.paragon.bluetooth_printer_utility"
     compileSdk = 34
 
     defaultConfig {
@@ -42,8 +42,8 @@ afterEvaluate {
     android.libraryVariants.forEach { variant ->
         publishing.publications.create<MavenPublication>(variant.name) {
             groupId = "com.paragon"
-            artifactId = "local-bt-printer"
-            version = "1.0.3"
+            artifactId = "bluetooth-printer-utility"
+            version = "1.0.1"
 
             from(components.findByName(variant.name))
         }

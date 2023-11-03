@@ -1,4 +1,4 @@
-package com.paragon.testbtprinter.ui.theme
+package com.paragon.printer_utility.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
